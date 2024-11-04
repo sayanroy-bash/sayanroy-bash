@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">Aspiring Fullstack Developer | Passionate about Dynamic Tech</h3>
+<h1 align="center">Hi there 👋, I'm Sayan Roy</h1>
+<h3 align="center">Aspiring Fullstack Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=3B82F6&background=000000&center=true&vCenter=true&width=435&lines=Building+Interactive+Web+Applications;Mastering+Frontend+and+Backend;Exploring+the+Tech+Universe" alt="Typing SVG" />
@@ -25,12 +25,11 @@
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github&logoColor=white)](https://github.com/sayanroy-bash)
 
 ### 🔥 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=sayanroy-bash&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -44,7 +43,7 @@
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=yourusername&theme=dracula&bg_color=000000&color=3B82F6&line=FFBB00&point=FFFFFF&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayanroy-bash&theme=dracula&bg_color=000000&color=3B82F6&line=FFBB00&point=FFFFFF&hide_border=true" alt="Activity Graph">
 </p>
 
 ### 🛠️ Projects
