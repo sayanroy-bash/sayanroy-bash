@@ -43,8 +43,9 @@
 
 ### 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sayanroy-bash&theme=dracula&bg_color=000000&color=3B82F6&line=FFBB00&point=FFFFFF&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=dracula&bg_color=000000&color=3B82F6&line=FFBB00&point=FFFFFF&hide_border=true" alt="Activity Graph">
 </p>
+
 
 ### 🛠️ Projects
 - **Chatbot App:** A conversational AI using OpenAI, Python, and Streamlit.
